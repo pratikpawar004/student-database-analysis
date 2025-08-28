@@ -46,7 +46,7 @@ mysql -u root -p < student_analysis.sql
 - Designing and normalizing a relational database
 - Writing SQL queries for real-world analysis
 - Using joins, subqueries, aggregations, and views effectively
-
+---
 ## 👤 Author
 - Pratik Pawar
 - B.Tech Computer Engineering Student
