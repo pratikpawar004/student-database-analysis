@@ -36,5 +36,5 @@ mysql -u root -p < student_analysis.sql
 ```
 ## 🗂️ Database ER Diagram
 
-Below is the Entity-Relationship diagram of the database:
+- Below is the Entity-Relationship diagram of the database:
 <img width="436" height="581" alt="Image" src="https://github.com/user-attachments/assets/75d7cc37-304f-45a4-8148-d6ec30a4fcb2" />
