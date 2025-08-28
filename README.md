@@ -33,7 +33,7 @@ SQL queries are written to analyze performance through **joins, aggregations, su
 Or use the terminal:
 ```bash
 mysql -u root -p < student_analysis.sql
-
+```
 ## 🗂️ Database ER Diagram
 
 Below is the Entity-Relationship diagram of the database:
