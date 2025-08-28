@@ -23,6 +23,12 @@ SQL queries are written to analyze performance through **joins, aggregations, su
 - `er-diagram.png` → Entity Relationship Diagram of the database
 - `student_analysis.mwb` → MySQL Workbench project file  
   (You can open this file in **MySQL Workbench** to view/edit the database model visually.)
+- `Documentation.pdf` → Detailed documentation of the project including:
+  - Database design explanation
+  - ER diagram description
+  - SQL code with examples
+  - Sample tables after data insertion
+
 
 ---
 
