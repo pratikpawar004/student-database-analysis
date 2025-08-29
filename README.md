@@ -34,13 +34,14 @@ SQL queries are written to analyze performance through **joins, aggregations, su
 
 ## 🚀 How to Run
 1. Open **MySQL Workbench**.
-2. Go to **Server → Data Import → Import from Self-Contained File**.
-3. Select `student_analysis.sql` and import it.
+2. Go to **File → Open SQL Script → Import from Self-Contained File**.
+3. Select `student_analysis.sql` and open it.
 4. Run the queries inside Workbench to view results.
 
 Or use the terminal:
 ```bash
 mysql -u root -p < student_analysis.sql
+
 ```
 ---
 ## 🗂️ Database ER Diagram
